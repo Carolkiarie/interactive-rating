@@ -177,8 +177,9 @@ margin-bottom: 2em;
     }
     section{
       width: 500px;
-      margin-top: 10em;
+      margin: 10em;
       height: 530px;
+
     }
     body{
       display: flex;
