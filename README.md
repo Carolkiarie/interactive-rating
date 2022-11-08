@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here](https://github.com/Carolkiarie/interactive-rating
+- Solution URL: https://www.frontendmentor.io/solutions/interactive-rating-component-using-vanilla-javascript-fBG3Yq1RrF
+- Live Site url: https://github.com/Carolkiarie/interactive-rating
 
 ## My process
 
