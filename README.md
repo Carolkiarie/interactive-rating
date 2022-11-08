@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/interactive-rating-component-using-vanilla-javascript-fBG3Yq1RrF
-- Live Site url: https://github.com/Carolkiarie/interactive-rating
+- Live Site url: https://carolkiarie.github.io/interactive-rating/
 
 ## My process
 
