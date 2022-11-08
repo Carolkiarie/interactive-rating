@@ -44,10 +44,11 @@
   }
   form{
      background-color: var(--darkblue); 
-    padding: 2rem;
-    margin: 3em;
+     padding: 2rem;
+    margin: 1em; 
+    width: 300px;
     color: var(--white);
-    width: 400px;
+    box-sizing: border-box;
     border-radius: 28px;
   }
 
@@ -60,6 +61,7 @@ ul{
 display: flex;
 justify-content: space-between;
 margin-bottom: 2em;
+gap: 12px;
    
 }
   li{
@@ -135,7 +137,7 @@ margin-bottom: 2em;
     align-items: center;
     gap: 1.2em;
      display: none; 
-    width: 400px;
+    width: 300px;
     border-radius: 28px;
     
   }
